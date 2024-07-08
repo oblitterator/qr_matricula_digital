@@ -1,7 +1,7 @@
 
 # Decodificación de un JSON Web Token (JWT) de la Matrícula Digital del Profesional de la Salud
 
-Este repositorio contiene un ejemplo de cómo decodificar un JSON Web Token (JWT) utilizado en la Matrícula Digital del Profesional de la Salud en Mi Argentina de la REFEPS.
+Este repositorio NO OFICIAL contiene un ejemplo de cómo decodificar un JSON Web Token (JWT) utilizado en la Matrícula Digital del Profesional de la Salud en Mi Argentina de la REFEPS.
 
 ## Requisitos
 
